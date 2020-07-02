@@ -1,0 +1,2 @@
+model_checkpoint_path: "tensorflow-multi-layer-mnist.ckpt"
+all_model_checkpoint_paths: "tensorflow-multi-layer-mnist.ckpt"
